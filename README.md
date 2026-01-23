@@ -12,6 +12,8 @@ It is dynamically typed, garbage collected (by the OS), and highly modular. It i
 
 ## 2. Quick Start: Hello World
 
+The following is **legal C** in the Cscript style. It compiles on gcc.
+
 ```c
 /* Main is the entry point. No headers: the linker provides us with all functions we need. */
 main() {

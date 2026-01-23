@@ -125,9 +125,6 @@ Standard increment operators are boring. Use bitwise negation.
 *   Increment: `-~x` (Equivalent to `x + 1`)
 *   Decrement: `~-x` (Equivalent to `x - 1`)
 
-### 5.4. Commutative Indexing
-Array indexing is commutative. `0[str]` is valid and asserts dominance.
-
 ## 6. Garbage Collection
 Cscript utilizes the Operating System's built-in Process Lifecycle Garbage Collector.
 *   **Do not free memory.** It wastes CPU cycles and adds code complexity.
@@ -165,7 +162,7 @@ gcc -std=gnu89 -m32 -fno-builtin ...
 
 *   **-std=gnu89**: Enables the classic C features we rely on (implicit declarations, mixed includes).
 *   **-m32**: Ensures `sizeof(void*) == sizeof(int)`. This is the cornerstone of Cscript's dynamic typing.
-*   **Non-32-bit**: Inferior architecture. But compile with `-Dauto=long` as a hack. Prefer buying a Pentium 4.
+*   **Non-32-bit support**: Use qemu-user to run on your inferior hardware. Prefer buying a Pentium 4.
 
 ### 8.1. Compiler Warnings (or lack thereof)
 Cscript code is "correct by definition." Therefore, we must silence the compiler's doubts.

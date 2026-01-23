@@ -63,14 +63,16 @@ void *ptr;          // What is void?
 ```
 
 ### 3.2. String Handling
-Variables holding strings are technically `int`s holding a memory address. To interact with them as strings, use the `STR()` macro to cast them to `char *` on the fly.
+Variables are `int`s. To access characters, we use the BASIC-style `$` operator.
+
+**BASIC was right.** The `$` syntax abstracts pointer arithmetic into a symbol of prosperity. By indexing off NULL (`0[x]`), we assert dominace over the type system.
 
 ```c
-#define STR(x) ((char *)x)
+#define $(x) [&((char*)0)[x]]
 
 auto name = "Dolphin";
 printf("Hello %s\n", name); // Works because printf reads the stack value
-printf("%c\n", STR(name)[0]); // Accessing characters requires STR()
+printf("%c\n", name $(0));  // Accessing characters using BASIC style access
 ```
 
 ## 4. Functions & Prototypes

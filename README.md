@@ -1,9 +1,8 @@
 # The Cscript Style Guide
 
+<img align="right" src="https://github.com/user-attachments/assets/6069ba55-1099-4bf0-82a3-76547bbaf8ea" alt="Seal of a̶p̶p̶r̶o̶v̶a̶l̶ CScript" width="400" heigh="250">
+
 "C is a high-level language. Stop treating it like Assembly with seatbelts."
-
-<img align="right" src="ttps://github.com/user-attachments/assets/6069ba55-1099-4bf0-82a3-76547bbaf8ea" alt="Seal of a̶p̶p̶r̶o̶v̶a̶l̶ CScript" width="400" heigh="250">
-
 
 ## 1. Philosophy
 

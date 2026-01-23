@@ -8,7 +8,7 @@
 
 Cscript (C Scripting Language) is valid C that brings the development speed of Python to the raw performance and portability of C. By leveraging the full power of the GCC89 standard (and the `auto` keyword), Cscript removes the cognitive load of "types," "prototypes," and "manual memory management," allowing the developer to focus on *logic*.
 
-It is dynamically typed, garbage collected (by the OS), and highly modular. It is valid C, as K&R intended.
+It is dynamically typed, garbage collected (by the OS), and highly modular. It is valid C, as K&R intended (unlikley).
 
 ## 2. Quick Start: Hello World
 

